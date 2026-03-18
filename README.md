@@ -156,8 +156,8 @@ docker network create aio-network
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/nguyenhuuloc0912/mlops_project
-cd mlops_project
+git clone https://github.com/nguyenhuuloc0912/customer_churn_prediction
+cd customer_churn_prediction
 ```
 
 ### 2. Start Infrastructure (Docker)
